@@ -1,0 +1,12 @@
+[submodule "zig-qoi"]
+	path = zig-qoi
+	url = https://github.com/MasterQ32/zig-qoi
+[submodule "vulkan-zig"]
+	path = vulkan-zig
+	url = https://github.com/Snektron/vulkan-zig
+[submodule "volk"]
+	path = volk
+	url = https://github.com/zeux/volk
+[submodule "Vulkan-Headers"]
+	path = Vulkan-Headers
+	url = https://github.com/KhronosGroup/Vulkan-Headers
